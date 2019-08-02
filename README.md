@@ -1,3 +1,3 @@
 # hugo-docker
 
-配合 hugo chart 镜像
+Hugo Chart 镜像，用于编译Web静态文件
